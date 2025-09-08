@@ -1,15 +1,14 @@
 # Hashira Problem Statement
 
-This project solves a polynomial equation using **Lagrange Interpolation**.
+This two programs solves a polynomial equation using Lagrange Interpolation.
 
 ## Features
-- Decodes numbers from different bases.
+- Decodes numbers from different bases from the JSON file.
 - Calculates polynomial coefficients.
-- Finds constant term **c**.
-- Handles multiple test cases in one file.
+- Finds constant term c.
+- Handles 2 testcases in two different files.
 
 ## Usage
-```bash
 node -v
 node programfor1.js
 node programfor2.js
